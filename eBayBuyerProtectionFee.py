@@ -71,7 +71,7 @@ btn_calc.pack(pady=15)
 label_fee = tk.Label(root, text="PnL: £0.00", font=("Arial", 11, "bold"))
 label_fee.pack(pady=5)
 
-label_total_fee = tk.Label(root, text="Buyer Protenction Fee: £0.00", font=("Arial", 11, "bold"))
+label_total_fee = tk.Label(root, text="Buyer Protection Fee: £0.00", font=("Arial", 11, "bold"))
 label_total_fee.pack(pady=5)
 
 label_total = tk.Label(root, text="Listing Price excl. BPF: £0.00", font=("Arial", 11, "bold"))
